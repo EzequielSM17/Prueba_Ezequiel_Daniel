@@ -3,9 +3,11 @@ def saluda():
 print("hola cheke")
 def Contar(num):
     saluda()
-    for n in num:
-        print("hola dani")
+    print("hola dani"*num)
     print("hola cheke")
 
-
-
+def hola():
+    print("hola"*8)
+hola()
+saluda()
+Contar(2)
