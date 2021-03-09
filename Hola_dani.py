@@ -4,7 +4,7 @@ def Contar(num):
     saluda()
     print("hola dani"*num)
     print("hola cheke")
-def feo()
+def feo():
     print("hola genaro")
 
 def hola():
