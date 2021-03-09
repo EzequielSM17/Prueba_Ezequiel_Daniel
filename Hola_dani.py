@@ -9,7 +9,3 @@ def feo():
 
 def hola():
     print("hola"*8)
-hola()
-saluda()
-Contar(2)
-print(feo()*5)
