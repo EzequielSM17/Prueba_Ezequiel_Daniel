@@ -1,2 +1,3 @@
-print("hola dani")
+def saluda():
+    print("hola bro")
 print("hola cheke")
