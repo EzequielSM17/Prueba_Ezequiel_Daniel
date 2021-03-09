@@ -12,4 +12,4 @@ def hola():
 hola()
 saluda()
 Contar(2)
-print(feo()*4)
+print(feo()*5)
