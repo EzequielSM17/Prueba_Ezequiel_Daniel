@@ -9,6 +9,7 @@ def feo():
 
 def hola():
     print("hola"*8)
-
+def ladrar():
+    print("guau"*3)
 if __name__=="__main__":
     print("hola guapo")
