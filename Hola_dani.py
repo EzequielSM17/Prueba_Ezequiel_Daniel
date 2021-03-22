@@ -13,6 +13,8 @@ def ladrar():
     print("guau"*3)
 def maullar():
     print("miau"*7)
+def coser():
+    print("yo coso"*9)
 if __name__=="__main__":
     print("hola guapo")
     print("hola jesus")
