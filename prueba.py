@@ -7,4 +7,5 @@ ladrar()
 
 print(feo()*5)
 print("tengo pelo")
+maullar()
 
